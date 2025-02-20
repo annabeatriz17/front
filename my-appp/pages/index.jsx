@@ -1,5 +1,6 @@
 import styles from "../styles/Home.module.css";
 import header from "../componentes/Header";
+import footer from "../componentes/Footer";
 
 export default function Home() {
     return (
