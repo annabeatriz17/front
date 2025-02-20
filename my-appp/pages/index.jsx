@@ -1,11 +1,11 @@
 import styles from "../styles/Home.module.css";
-import header from "../componentes/Header";
-import footer from "../componentes/Footer";
+import Header from "../componentes/Header";
+import Footer from "../componentes/Footer";
 
 export default function Home() {
     return (
         <div className={styles.container}>
-            <header/>
+            <Header/>
 
             <div className={styles.quadrado}>
             <div className={styles.column}>
@@ -19,6 +19,8 @@ export default function Home() {
             </div>
             </div>
             <footer/>
+
+            <Header/>
         </div>
 
     );
