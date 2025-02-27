@@ -1,5 +1,7 @@
 .header {
     background-color: #fd7f20;
+    width: auto;
+    height: 100px;
 }
 
 .header h1 {

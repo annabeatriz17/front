@@ -1,5 +1,5 @@
 .quadrado {
-    width: 100%;
+    width: auto;
     height: 700px;
     background-color: rgb(194, 38, 38);
     margin: 10px;
@@ -14,7 +14,7 @@
 
 .card {
     background-color: #fdb750;
-    width: 495px;
+    width: 1000px;
     height: 300px;
     margin: 50px;
     border-radius: 20px;
@@ -22,9 +22,15 @@
 
 .retangulo {
     display: flex;
-    width: 500px;
-    height: 87%;
+    width: 700px;
+    height: 85%;
     background-color: rosybrown;
     margin-top: 50px;
     border-radius: 50px;
+    align-items: center;
+}
+
+.retangulo img {
+    width: 200%;
+    height: 100%;
 }
