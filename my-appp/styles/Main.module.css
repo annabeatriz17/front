@@ -1,0 +1,30 @@
+.quadrado {
+    width: 100%;
+    height: 700px;
+    background-color: rgb(194, 38, 38);
+    margin: 10px;
+    display: flex;
+}
+
+.column {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.card {
+    background-color: #fdb750;
+    width: 495px;
+    height: 300px;
+    margin: 50px;
+    border-radius: 20px;
+}
+
+.retangulo {
+    display: flex;
+    width: 500px;
+    height: 87%;
+    background-color: rosybrown;
+    margin-top: 50px;
+    border-radius: 50px;
+}
