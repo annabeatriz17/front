@@ -22,8 +22,8 @@
 
 .retangulo {
     display: flex;
-    width: 700px;
-    height: 85%;
+    width: 600px;
+    height: 75%;
     margin-top: 50px;
     border-radius: 50px;
     align-items: center;

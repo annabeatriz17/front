@@ -9,3 +9,14 @@
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
 }
+
+@media (max-width: 1440px) {
+    .header {
+        height: 100px;
+        width: 150%;
+        font-size: 20px;
+        text-align: center;
+        margin: 10px;
+    }
+    
+}
