@@ -10,7 +10,7 @@ export default function main() {
             </div>
 
             <div className={styles.retangulo}>
-                <img src="/mequi.png" alt="foto" />
+                <img src="/donuts.png" alt="Donuts" />
             </div>
         </div>
     );

@@ -1,11 +1,11 @@
 .header {
-    background-color: #fd7f20;
+    background-color: #b21368;
     width: auto;
     height: 100px;
 }
 
 .header h1 {
     color: white;
-    font-size: 3rem;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
 }

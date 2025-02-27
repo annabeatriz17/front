@@ -1,7 +1,7 @@
 .quadrado {
     width: auto;
     height: 700px;
-    background-color: rgb(194, 38, 38);
+    background-color: #d67ba8;
     margin: 10px;
     display: flex;
 }
@@ -13,7 +13,7 @@
 }
 
 .card {
-    background-color: #fdb750;
+    background-color:#b21368;
     width: 1000px;
     height: 300px;
     margin: 50px;
@@ -24,7 +24,6 @@
     display: flex;
     width: 700px;
     height: 85%;
-    background-color: rosybrown;
     margin-top: 50px;
     border-radius: 50px;
     align-items: center;
